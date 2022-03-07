@@ -38,7 +38,7 @@ const Contact = () => {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +250 725 513 664
+              +250 781 840 978
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
